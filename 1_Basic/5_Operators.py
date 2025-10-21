@@ -7,6 +7,7 @@
 # # print(a/b)
 # # print(a%b)#Modulo operator,it is use to find a remainder
 # # print(a ** b)#a^b,power operator
+
 # # #relational operators
 # # a=50
 # # b=52
@@ -16,6 +17,7 @@
 # # print(a>b)#False
 # # print(a<b)#True
 # # print(a<=b)#True
+
 # #assingment operators
 # n=10
 # # n=n+1 #11
@@ -33,6 +35,7 @@
 # # n**=2 #100
 # # print(n)
 # #logical operators
+
 # print(not True)#False ,NOT operator is opposite the condition means that if the value is true return false.if condition false than return true.
 # a=5
 # b=6
