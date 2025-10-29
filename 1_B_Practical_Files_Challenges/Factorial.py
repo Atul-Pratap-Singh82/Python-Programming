@@ -1,3 +1,4 @@
+#Program to find factorial of a number. 
 n=int(input("Enter a no.="))
 f=1
 i=1
