@@ -3,7 +3,7 @@ x=int(input("Enter a no.= "))
 ind=0
 for n in l:
     if n==x:
-        print("The no. is",x,"found at index", ind)
+        print("The no.",x,"is found at index", ind)
 
     ind+=1
 print("END")

@@ -1,0 +1,7 @@
+#Program to calculate the factorial of a number using recursion.  
+def fact(n):
+    if(n==1 or n==0):
+        return 1
+    return fact(n-1)*n
+n=int(input("Enter a no: "))
+print(fact(n))
